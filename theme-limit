@@ -1,0 +1,7 @@
+#!/bin/bash
+url=https://raw.githubusercontent.com/Putra-0/theme-xderm-putra/main
+wget -O /www/xderm/limit.php --no-check-certificate $url/xderm/limit.php
+mkdir /www/xderm/css
+chmod 777 /www/xderm/css
+wget -O /www/xderm/css/style.css --no-check-certificate $url/xderm/css/style.css
+clear;echo "Install Selesai, Silahkan clear cache browser!"
