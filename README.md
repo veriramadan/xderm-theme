@@ -1,6 +1,6 @@
 # xderm-theme
 
-# theme xderm by verguard
+# theme xderm by veriramadan
 
 installation theme
 ```
