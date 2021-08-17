@@ -4,7 +4,7 @@
 
 installation theme
 ```
-wget -O install-theme https://raw.githubusercontent.com/veriramadan/xderm-theme/main/install-theme-putra && bash install-theme-putra
+wget -O install-theme https://raw.githubusercontent.com/veriramadan/xderm-theme/main/install-theme && bash install-theme
 ```
 
 installation theme xderm limitiation bw
