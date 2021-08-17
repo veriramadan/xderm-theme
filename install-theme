@@ -1,5 +1,5 @@
 #!/bin/bash
-url=https://raw.githubusercontent.com/Putra-0/theme-xderm-putra/main
+url=https://raw.githubusercontent.com/veriramadan/xderm-theme/main
 wget -O /www/xderm/img/ico.png --no-check-certificate $url/xderm/img/ico.png
 wget -O /www/xderm/img/image.png --no-check-certificate $url/xderm/img/image.png
 wget -O /www/xderm/img/background.jpg --no-check-certificate $url/xderm/img/background.jpg
